@@ -1,0 +1,15 @@
+C:\mott\projects\personal\DirectX\CoordinateConversion\bin\Debug\CoordinateConversion.exe.config
+C:\mott\projects\personal\DirectX\CoordinateConversion\bin\Debug\CoordinateConversion.exe
+C:\mott\projects\personal\DirectX\CoordinateConversion\bin\Debug\CoordinateConversion.pdb
+C:\mott\projects\personal\DirectX\CoordinateConversion\obj\Debug\CoordinateConversion.csprojResolveAssemblyReference.cache
+C:\mott\projects\personal\DirectX\CoordinateConversion\obj\Debug\CoordinateConversion.Form1.resources
+C:\mott\projects\personal\DirectX\CoordinateConversion\obj\Debug\CoordinateConversion.Properties.Resources.resources
+C:\mott\projects\personal\DirectX\CoordinateConversion\obj\Debug\CoordinateConversion.csproj.GenerateResource.Cache
+C:\mott\projects\personal\DirectX\CoordinateConversion\obj\Debug\CoordinateConversion.exe
+C:\mott\projects\personal\DirectX\CoordinateConversion\obj\Debug\CoordinateConversion.pdb
+C:\mott\projects\personal\DirectX\CoordinateConversion\bin\Debug\SharpDX.Mathematics.dll
+C:\mott\projects\personal\DirectX\CoordinateConversion\bin\Debug\SharpDX.dll
+C:\mott\projects\personal\DirectX\CoordinateConversion\bin\Debug\SharpDX.Mathematics.xml
+C:\mott\projects\personal\DirectX\CoordinateConversion\bin\Debug\SharpDX.xml
+C:\mott\projects\personal\DirectX\CoordinateConversion\bin\Debug\YLScsDrawing.dll
+C:\mott\projects\personal\DirectX\CoordinateConversion\bin\Debug\YLScsDrawing.pdb
